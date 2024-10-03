@@ -1,4 +1,4 @@
-# Analyzing Network Layer Communication: DNS and ICMP Traffic Issues
+# Analyzing DNS and ICMP Errors in Cybersecurity
 
 ## Table of Contents
 - [Introduction](#introduction)
