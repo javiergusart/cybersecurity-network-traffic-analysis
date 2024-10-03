@@ -39,7 +39,7 @@ The analysis revealed that DNS queries were consistently sent to the DNS server,
 
 | **Finding**                              | **Details**                                                                 |
 |------------------------------------------|-----------------------------------------------------------------------------|
-| **Time of Incident**                     | The issue occurred on October 2, 2024, at 13:24:32.                         |
+| **Time of Incident**                     | The issue occurred at 13:24:32.                                             |
 | **How the Issue Was Detected**           | Users reported not being able to access the website.                        |
 | **Steps Taken by the IT Department**     | The IT team used tcpdump to capture and analyze the network traffic.        |
 | **Findings from the Investigation**      | The DNS server was unreachable on port 53, which blocked DNS resolution.    |
